@@ -2,4 +2,4 @@
 
 ## Build output location
 
-Final output compiled application storage should use the `dist/` directory.
+The compiled application output is stored in the `dist/` directory.
