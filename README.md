@@ -1,5 +1,5 @@
 # onepub
 
-## Final output compiled application storage
+## Build output location
 
-The final compiled output for the application should be stored in the `dist/` directory.
+Final output compiled application storage should use the `dist/` directory.
