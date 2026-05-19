@@ -22,3 +22,12 @@ Host OTA artifacts on a public HTTPS endpoint, for example:
 ## Notes
 
 For now this is perfect as a public repository
+
+### Build and Artifact Storage (GitHub Actions & Packages)
+
+For automated builds and compiled assets, GitHub provides shared storage across GitHub Actions and GitHub Packages based on your plan:
+
+- GitHub Free: 500 MB
+- GitHub Pro: 2 GB
+- GitHub Team: 2 GB
+- GitHub Enterprise: 50 GB
